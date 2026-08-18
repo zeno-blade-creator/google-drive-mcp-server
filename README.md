@@ -19,7 +19,7 @@ You do this **once**. After that, every Claude Code session can use the
 
 1. Go to <https://console.cloud.google.com/>.
 2. Top bar → project dropdown → **New Project**.
-3. Name it something like `bwsi-drive-mcp` → **Create**. Wait a few seconds, then
+3. Name it something like `app-integrations` → **Create**. Wait a few seconds, then
    make sure that project is selected in the top bar.
 
 ### Step 2 — Enable the Google Drive API
