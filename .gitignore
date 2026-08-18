@@ -1,0 +1,9 @@
+# Dependencies — rebuilt with `npm install`
+node_modules/
+
+# Credentials live in ~/.config/google-drive-mcp/ and never here.
+gcp-oauth.keys.json
+.gdrive-credentials.json
+*token*
+*credential*
+.DS_Store
